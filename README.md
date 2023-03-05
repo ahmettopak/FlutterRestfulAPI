@@ -4,5 +4,5 @@ Restful API Test app with flutter
 
 
 
-![Project image]("https://github.com/ahmettopak/FlutterRestfulAPI/blob/main/ProjectImage.png")
+![Project image](ProjectImage.png)
 
